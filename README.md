@@ -6,7 +6,7 @@
 - Tailwindcss & Framer Motion
 
 #### What I'm up to:
-- Learning TypeScript, Flutter, Golang
+- Learning Flutter, Golang, Docker
 - Relearning Python and PHP (+ Laravel)
 - No Good
 <!--
