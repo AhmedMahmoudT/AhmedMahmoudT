@@ -1,5 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 
+- I mostly use React-based frameworks
+- I mostly use No-SQL for databases
+- I'm currently relearning my python and php
+- IDE: Vim > VS Code > JetBrains
 <!--
 **AhmedMahmoudT/AhmedMahmoudT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
