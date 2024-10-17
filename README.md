@@ -3,7 +3,7 @@
 #### What I use:
 - React-based frameworks
 - NoSQL databases
-- Tailwindcss & Framer Motion (Animation)
+- Tailwindcss & Framer Motion
 
 #### What I'm up to:
 - Learning TypeScript, Flutter, Golang
