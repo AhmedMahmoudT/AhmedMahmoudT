@@ -9,7 +9,7 @@
 #### What I'm up to:
 - Learning Flutter, Golang, Postgres
 - Learning Spring Boot
-- Trying to utilise Docker in my projects
+- Trying to utilize Docker in my projects
 - Relearning Python and PHP (+ Laravel)
 - No Good
 <!--
