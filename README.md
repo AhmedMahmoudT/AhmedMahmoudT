@@ -1,9 +1,14 @@
 ### Ahmed Mahmoud T.
 
-- I mostly use React-based frameworks
-- I mostly use No-SQL for databases
-- I'm currently relearning my python and php
-- IDE: Vim > VS Code > JetBrains
+#### What I use:
+- React-based frameworks
+- NoSQL databases
+- Tailwindcss & Framer Motion (Animation)
+
+#### What I'm up to:
+- Learning TypeScript, Flutter, Golang
+- Relearning Python and PHP (+ Laravel)
+- No Good
 <!--
 **AhmedMahmoudT/AhmedMahmoudT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
