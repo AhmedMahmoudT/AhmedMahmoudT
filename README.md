@@ -3,7 +3,7 @@
 #### What I use:
 - React-based frameworks
 - NoSQL databases
-- Tailwindcss & Framer Motion
+- Tailwindcss & Motion (previously known as Framer Motion)
 - Figma
 
 #### What I'm up to:
