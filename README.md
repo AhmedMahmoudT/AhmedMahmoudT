@@ -13,7 +13,7 @@
 - Relearning Python and PHP (+ Laravel)
 - No Good
 
-#### [VexiGuessr](https://guess-the-flag-amt.vercel.app/)
+#### [VexiGuessr](https://vexiguessr.vercel.app/)
 <!--
 **AhmedMahmoudT/AhmedMahmoudT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
