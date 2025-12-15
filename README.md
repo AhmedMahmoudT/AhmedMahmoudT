@@ -2,18 +2,22 @@
 
 #### What I use:
 - React-based frameworks
+- Angular
+- Node.js, Spring & Laravel for Backend development
 - NoSQL databases
+- ORMs
 - Tailwindcss & Motion (previously known as Framer Motion)
 - Figma
 
 #### What I'm up to:
-- Learning Flutter, Golang, Postgres
-- Learning Spring Boot
-- Trying to utilize Docker in my projects
-- Relearning Python and PHP (+ Laravel)
+- Learning Golang
+- Trying to utilize Docker in projects
 - No Good
 
+Currently deployed projects:
 #### [VexiGuessr](https://vexiguessr.vercel.app/)
+#### [Taest (Ecommerce Example)](https://taest-ecom.vercel.app)
+
 <!--
 **AhmedMahmoudT/AhmedMahmoudT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
