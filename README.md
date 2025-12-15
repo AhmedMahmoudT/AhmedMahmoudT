@@ -1,17 +1,16 @@
 ### Ahmed Mahmoud T.
 
 #### What I use:
-- React-based frameworks
-- Angular
-- Node.js, Spring & Laravel for Backend development
-- NoSQL databases
-- ORMs
-- Tailwindcss & Motion (previously known as Framer Motion)
-- Figma
+- [React](https://react.dev/)-based frameworks, [Vue.js](https://vuejs.org) & [Angular](https://angular.dev/) for Frontend development
+- [Node.js](https://nodejs.org/en), [Spring](https://spring.io/) & [Laravel](https://laravel.com/) for Backend development
+- [MongoDB](https://www.mongodb.com/)
+- ORMs ([Drizzle](https://orm.drizzle.team/) and [Prisma](https://www.prisma.io/))
+- [Tailwindcss](https://tailwindcss.com), [Three.js](https://threejs.org) & [Motion](https://motion.dev) (previously known as Framer Motion)
+- [Figma](https://figma.com)
 
 #### What I'm up to:
-- Learning Golang
-- Trying to utilize Docker in projects
+- Learning [Golang](go.dev)
+- Trying to utilize [Docker](https://docker.com) in projects
 - No Good
 
 Currently deployed projects:
