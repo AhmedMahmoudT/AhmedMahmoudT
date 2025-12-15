@@ -9,7 +9,7 @@
 - [Figma](https://figma.com)
 
 #### What I'm up to:
-- Learning [Golang](go.dev)
+- Learning [Golang](https://go.dev)
 - Trying to utilize [Docker](https://docker.com) in projects
 - No Good
 
