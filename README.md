@@ -15,6 +15,7 @@
 
 Currently deployed projects:
 #### [VexiGuessr](https://vexiguessr.vercel.app/)
+#### [Space Runner](https://space-runner-pwa.vercel.app/)
 #### [Taest (Ecommerce Example)](https://taest-ecom.vercel.app)
 
 <!--
